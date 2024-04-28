@@ -22,9 +22,9 @@ This is a simple command-line based Employee Management System written in Python
 
 ## Getting Started
 
-1. Download the release `main.zip`.
+1. Download the release `.zip` file.
 2. If you want to erase every dummy data employy erase the content of `./employees.json`
-3. Run the script using the command `python "main.py"` in your terminal or command prompt.
+3. Run the script using the command `python "admin.py"` in your terminal or command prompt.
 
 ## Login
 

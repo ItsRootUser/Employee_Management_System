@@ -28,8 +28,13 @@ correct_password_2 = "root123"
 inputed_login = ""
 inputed_password = ""
 
+
+with open('./config/config.json', 'r') as config_file:
+    config_data = json.load(config_file)
+    color = str(config_data['color'])
+    
 system('cls')
-system('color 0A')
+system('color ' + color)
 
 def login():
     system('cls')
