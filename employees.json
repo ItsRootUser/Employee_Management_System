@@ -1,0 +1,20 @@
+{"ID": 1, "First Name": "Rastislav", "Last Name": "Vysoky", "Age": 20, "Gender": "Male", "Role": "Owner", "Password": "user123"}
+{"ID": 2, "First Name": "Pavol", "Last Name": "Dreveny", "Age": 30, "Gender": "Male", "Role": "CoOwner", "Password": ""}
+{"ID": 3, "First Name": "Michael", "Last Name": "Johnson", "Age": 35, "Gender": "Male", "Role": "Senior Developer", "Password": ""}
+{"ID": 4, "First Name": "James", "Last Name": "Taylor", "Age": 33, "Gender": "Male", "Role": "System Architect"}
+{"ID": 5, "First Name": "Daniel", "Last Name": "Martinez", "Age": 31, "Gender": "Male", "Role": "Database Administrator", "Password": ""}
+{"ID": 6, "First Name": "John", "Last Name": "Doe", "Age": 25, "Gender": "Male", "Role": "Junior Developer", "Password": ""}
+{"ID": 7, "First Name": "Jane", "Last Name": "Smith", "Age": 30, "Gender": "Female", "Role": "Developer", "Password": ""}
+{"ID": 8, "First Name": "Emily", "Last Name": "Brown", "Age": 22, "Gender": "Female", "Role": "Tester", "Password": ""}
+{"ID": 9, "First Name": "Sarah", "Last Name": "Davis", "Age": 27, "Gender": "Female", "Role": "Network Administrator", "Password": ""}
+{"ID": 10, "First Name": "Emma", "Last Name": "Anderson", "Age": 29, "Gender": "Female", "Role": "Business Analyst"}
+{"ID": 11, "First Name": "Olivia", "Last Name": "Garcia", "Age": 26, "Gender": "Female", "Role": "Technical Support Specialist", "Password": ""}
+{"ID": 12, "First Name": "Alex", "Last Name": "Wilson", "Age": 28, "Gender": "Male", "Role": "Intern", "Password": ""}
+{"ID": 13, "First Name": "Martin", "Last Name": "Velky", "Age": 35, "Gender": "Male", "Role": "Intern", "Password": ""}
+{"ID": 14, "First Name": "Simona", "Last Name": "Laskova", "Age": 28, "Gender": "Female", "Role": "Intern", "Password": ""}
+{"ID": 15, "First Name": "Tomas", "Last Name": "Horny", "Age": 29, "Gender": "Male", "Role": "Intern"}
+{"ID": 16, "First Name": "Zuzana", "Last Name": "Klusova", "Age": 30, "Gender": "Female", "Role": "Intern", "Password": ""}
+{"ID": 17, "First Name": "Matej", "Last Name": "Koval", "Age": 33, "Gender": "Male", "Role": "Intern", "Password": ""}
+{"ID": 18, "First Name": "Nina", "Last Name": "Novakova", "Age": 25, "Gender": "Female", "Role": "Intern", "Password": ""}
+{"ID": 19, "First Name": "Lukas", "Last Name": "Kovac", "Age": 40, "Gender": "Male", "Role": "Intern", "Password": ""}
+{"ID": 20, "First Name": "Eva", "Last Name": "Novakova", "Age": 36, "Gender": "Female", "Role": "Intern", "Password": ""}
